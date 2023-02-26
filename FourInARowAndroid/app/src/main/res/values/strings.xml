@@ -1,0 +1,14 @@
+<!--
+   Various strings that are used throughout the app
+   Author: Kevin Rodriguez
+   2/25/23
+-->
+<resources>
+    <string name="app_name">Four In a Row</string>
+    <string name="rules_description">You must get four in a row in the following situations in order to win: Horizontally, vertically, diagonal left, or diagonal right. Please enter your name to get started!
+    </string>
+    <string name="enter_name">Enter your name:</string>
+    <string name="play">Play</string>
+    <string name="reset">Reset</string>
+    <string name="game_status">Game Status: Playing</string>
+</resources>
